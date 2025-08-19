@@ -100,3 +100,5 @@ pipeline {
         }
     }
 }
+
+aayan_dell@aayandell:~/Documents/aayaninfotech/Johnson-Auto-Parts-backend$ aws sts get-caller-identity
