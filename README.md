@@ -1,4 +1,4 @@
-# Argon Admin Dashboard: React.js, Vite, Material UI - Dark & Light Mode
+<!-- # Argon Admin Dashboard: React.js, Vite, Material UI - Dark & Light Mode
 
 Welcome to Argon Admin Dashboard, a sleek and feature-rich solution built with React.js, Vite, and Material UI, offering both dark and light mode themes. Empower your project with 11 meticulously crafted pages, including data management, user interaction, and insightful chart displays.
 
@@ -44,4 +44,4 @@ Argon Admin Dashboard is open-source and completely free to use. Download it, cu
 
 **Keywords:** React.js, Vite, Material UI, Admin Dashboard, Dark Mode, Light Mode, Data Management, Team Management, Calendar, Charts, Formik, Yup, Open Source.
 
-**Enjoy building awesome projects with Argon Admin Dashboard!**
+**Enjoy building awesome projects with Argon Admin Dashboard!** -->
